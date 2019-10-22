@@ -22,6 +22,7 @@ int getdenominateur()
 return this->denominateur;
 }	
 //aaaaaaaaaaa
+//bbbbbbb
 }
 
 

@@ -17,6 +17,10 @@ public class fraction{
 		this.numerateur=y;
 	}
 
-	
+int getdenominateur()
+{
+return this->denominateur;
+}	
 }
+
 
